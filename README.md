@@ -1,5 +1,5 @@
 
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Welcom😄)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Welcome😄)
 <!--
 **seoyoungkyung/seoyoungkyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
