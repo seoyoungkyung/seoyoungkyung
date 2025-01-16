@@ -1,5 +1,5 @@
 
-![Welcome My GIT](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
+![WAVE](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Welcome My GIT)
 <!--
 **seoyoungkyung/seoyoungkyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
