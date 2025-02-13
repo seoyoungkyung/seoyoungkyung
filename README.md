@@ -79,6 +79,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />My Project<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" /></h2>
   <a href="https://github.com/project-invitation2024/happy" target="_blank"><p>project-1 (Spring 기반으로 청첩장 만들기)</p></a>
   <a href="https://github.com/seoyoungkyung/hope" target="_blank"><p>project-2 (SpringBoot 기반으로 음반 판매전문 사이트 만들기)</p></a>
+  <a href="https://github.com/seoyoungkyung/Springboot-RecommenderSystem" target="_blank"><p>project-2(2) (SpringBoot 기반으로 음반 판매전문 + 추천시스템 사이트 만들기)</p></a>
 </div>
 <br/> <br/> <br/>
 
