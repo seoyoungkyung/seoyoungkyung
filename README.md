@@ -6,15 +6,13 @@
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="40" height="40" /> 안녕하세요!</h1>
   <p>저는 <strong>Full Stack Developer</strong>로, 웹 개발에 대한 깊은 열정과 다양한 기술에 대한 관심을 가지고 있습니다.</p>
-  <p>소프트웨어 개발의 전반적인 과정에 흥미를 느끼며, 다양한 기술 스택을 다루고 있습니다.<br/> 현재는 주로 <strong>Spring Boot</strong>와 <strong>HTML</strong>을 사용하여 웹 애플리케이션을 개발하고 있습니다.</p>
+  <p>소프트웨어 개발의 전반적인 과정에 흥미를 느끼며, 다양한 기술 스택을 다루고 있습니다.<br/> 현재는 주로 <strong>Spring Boot</strong>와 <strong>JAVA</strong>을 사용하여 웹 애플리케이션을 개발하고 있습니다.</p>
   <p><strong>Spring Boot</strong>는 강력한 백엔드 프레임워크로, RESTful API 설계, 데이터베이스 연동, 보안 처리 등 <br/>다양한 기능을 효율적으로 구현할 수 있게 해줍니다. 이를 활용하여 확장성이 뛰어난 웹 서비스를 개발하는 데 집중하고 있습니다.</p>
-  
-  <p><strong>HTML</strong>은 웹 페이지를 구조화하는 가장 중요한 기술입니다. 이를 사용하여 사용자와 상호작용하는 웹 페이지를 구축하고,<br/> CSS와 JavaScript를 통해 더 나은 사용자 경험을 제공하기 위해 노력하고 있습니다.</p>
+
   
   <p>저는 기술적인 문제를 해결하고, 더 나은 제품을 만들어 나가는 과정에 큰 보람을 느끼고 있습니다. <br/>기술적인 성장뿐만 아니라 협업과 소통을 통해 더 나은 결과물을 만들어가고 있습니다. 지속적으로 새로운 기술을 배우고,<br/> 이를 실제 프로젝트에 적용하여 더 나은 개발자가 되고자 합니다.</p>
   
-  <p>지금은 <strong>Spring Boot</strong>와 <strong>HTML</strong>을 주로 사용하고 있지만,다른 최신 기술에도 관심을 가지고 공부하며, <br/>더 넓은 범위의 프로젝트에 도전하고 있습니다. <br/>제 목표는 사용자에게 가치 있는 제품을 제공하는 것이며, 효율적이고 확장성 있는 시스템을 구축하는 개발자로 성장하는 것입니다.</p>
-</div>
+  
 
 <br/><br/>
 
